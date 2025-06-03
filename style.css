@@ -3,13 +3,20 @@ header{
     background-color: rgb(252, 233, 148);
     font-family: cursive;
     text-align: center;
-    height: 50%;
-    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    font-size: 30px;
 }
 
 .primeira-secao{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: chocolate;
     background-color: rgb(232, 222, 210);
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    padding: 50px 0;
     font-size: 30px;
 }
